@@ -25,7 +25,4 @@ Bu proje, kullanıcıların uçuş bilgilerini görüntüleyebildiği, rezervasy
   - `Passenger`: Yolcu bilgilerini temsil eder.
   - `Reservation`: Rezervasyonları yönetir.
 
-## Örnek Kullanım
-### Örnek Uçuşlar
-Sistem çalıştırıldığında aşağıdaki gibi örnek uçuşlar listelenir:
 
